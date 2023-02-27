@@ -57,11 +57,11 @@ button:active {
 
 .projects {
   margin: 1rem;
-  border: 1px solid #ff0062;
+  border: 1px solid #a3a3a3;
 }
 
 .projects header {
-  background: #ff0062;
+  background: #13dd99;
   height: 3.5rem;
   display: flex;
   justify-content: center;
